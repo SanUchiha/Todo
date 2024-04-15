@@ -1,0 +1,17 @@
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Aplicacion.deps.json
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Aplicacion.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Aplicacion.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Model.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Repo.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Model.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\bin\Debug\net8.0\ListaTareas.Repo.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.AssemblyInfo.cs
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTar.A2E24A36.Up2Date
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\refint\ListaTareas.Aplicacion.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ListaTareas.Aplicacion.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Aplicacion\obj\Debug\net8.0\ref\ListaTareas.Aplicacion.dll

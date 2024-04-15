@@ -1,0 +1,14 @@
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\bin\Release\net8.0\ListaTareas.Model.deps.json
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\bin\Release\net8.0\ListaTareas.Model.runtimeconfig.json
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\bin\Release\net8.0\ListaTareas.Model.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\bin\Release\net8.0\ListaTareas.Model.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.csproj.AssemblyReference.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.AssemblyInfoInputs.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.AssemblyInfo.cs
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\refint\ListaTareas.Model.dll
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.pdb
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ListaTareas.Model.genruntimeconfig.cache
+C:\Users\josea\Documents\Projects\To Do\BackDependencias\ListaTareas\ListaTareas.Model\obj\Release\net8.0\ref\ListaTareas.Model.dll

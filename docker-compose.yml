@@ -1,0 +1,46 @@
+version: '3'
+
+services:
+
+  database:
+    image: mysql:latest
+    environment:
+      - MYSQL_ROOT_PASSWORD=29101988aA..
+      - MYSQL_DATABASE=tododb
+      - MYSQL_USER=jose
+      - MYSQL_PASSWORD=29101988aA..
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./ListaTareas.API/init.sql:/docker-entrypoint-initdb.d/init.sql
+  
+  
+  backend:
+    build:
+      context: .
+      dockerfile: ./ListaTareas.API/Dockerfile
+    ports:
+      - "9090:9090"
+    restart: always
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+    depends_on:
+      - database
+
+  
+  frontend:
+    build:
+      context: "./ListaTareas.Front"
+      dockerfile: "Dockerfile"
+    ports:
+      - "8080:8080"
+    restart: always
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 10s
+
+
+  
